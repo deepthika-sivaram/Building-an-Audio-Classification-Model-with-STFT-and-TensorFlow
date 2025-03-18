@@ -26,13 +26,14 @@ cd Audio-Classification-STFT
 ```
 Once the repository is cloned you can try the cells in Jupyter Notebook file individually to obtain results.
 
-📈 Results
-Model achieves 80%+ accuracy on the ESC-50 dataset
-Performs well on real-world audio clips
+## 📈 Results
+
+✔ Model achieves 80%+ accuracy on the ESC-50 dataset
+✔ Performs well on real-world audio clips
 
 
-🛠 Technologies Used
-Python
-TensorFlow/Keras
-Librosa (Audio Processing)
-Matplotlib & Seaborn (Visualization)
+## 🛠 Technologies Used
+✔ Python
+✔ TensorFlow/Keras
+✔ Librosa (Audio Processing)
+✔ Matplotlib & Seaborn (Visualization)
